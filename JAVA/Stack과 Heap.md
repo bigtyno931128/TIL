@@ -1,6 +1,9 @@
 # Stack 과 Heap
 
----
+
+
+
+
 
 ### Stack 과 Heap 에 대해서 학습하기 전 JAVA 의 메모리 영역에 대해서 알아보자.
 
