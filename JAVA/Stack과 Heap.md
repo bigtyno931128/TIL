@@ -57,7 +57,9 @@ JVM의 **메모리 공간(Runtime Data Area)**은 크게 **Method(Static) 영�
 
 ---
 
-	public static void main(String[] args) {
+	
+ 
+ public static void main(String[] args) {
 
 		int age = 32 ;  // stack -- > 적재 
 		String name = "kang"; // stack 에는 변수의 이름인 name 만 , Heap 영역에는 kang 이 올라가면서 주소값을 참조 하게 되어있다.
